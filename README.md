@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Blog site developed from Next.js Tutorial.
+
+## Deploy
+[Blog site](https://nextjs-blog.mdcarron.vercel.app/)
